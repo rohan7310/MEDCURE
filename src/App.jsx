@@ -4,6 +4,8 @@ import Home from "./components/Home";
 import Login from "./components/Login";
 import Appointment from "./components/Appointment";
 import Doctor from "./components/Doctor";
+import "./App.css";
+
 
 function App() {
   return (
